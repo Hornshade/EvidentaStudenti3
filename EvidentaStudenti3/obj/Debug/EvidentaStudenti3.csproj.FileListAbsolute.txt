@@ -1,0 +1,9 @@
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.exe.config
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.exe
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\EvidentaStudenti3.pdb
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\LibrarieEntitati.dll
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\bin\Debug\LibrarieEntitati.pdb
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.csprojAssemblyReference.cache
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.csproj.CopyComplete
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.exe
+D:\Scoala\Programare C#-PIU\EvidentaStudenti3\EvidentaStudenti3\obj\Debug\EvidentaStudenti3.pdb

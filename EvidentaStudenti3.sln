@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidentaStudenti3", "EvidentaStudenti3\EvidentaStudenti3.csproj", "{98023484-C1FE-44CE-899E-1AD7B2B785D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieEntitati", "LibrarieEntitati\LibrarieEntitati.csproj", "{499B79B4-5927-4AAF-AF7D-861CB4B6CA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98023484-C1FE-44CE-899E-1AD7B2B785D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98023484-C1FE-44CE-899E-1AD7B2B785D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98023484-C1FE-44CE-899E-1AD7B2B785D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98023484-C1FE-44CE-899E-1AD7B2B785D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499B79B4-5927-4AAF-AF7D-861CB4B6CA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499B79B4-5927-4AAF-AF7D-861CB4B6CA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499B79B4-5927-4AAF-AF7D-861CB4B6CA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499B79B4-5927-4AAF-AF7D-861CB4B6CA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0C22B6-081D-45DF-8E43-D124AA8127A1}
+	EndGlobalSection
+EndGlobal
